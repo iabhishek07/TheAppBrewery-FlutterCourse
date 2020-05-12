@@ -20,3 +20,13 @@ This repository contains all the app development challenges from TheAppBrewery F
 |                   1.                    |
 | :--------------------------------------:| 
 |<img src="4.dicey/Dicey.png" height="500em"/>| 
+
+## 5th Challenge (Magic-8-ball StateFull App with some basic functions of Dart(e.g.Random.nextInt())
+|                   1.                    |
+| :--------------------------------------:| 
+|<img src="5.magic-8-ball/screenshot.png" height="500em"/>| 
+
+## 6th Challenge (XyloPhone App with some Audio library functions.
+|                   1.                    |
+| :--------------------------------------:| 
+|<img src="6.xylophone/xylo.png" height="500em"/>| 

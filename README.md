@@ -29,4 +29,9 @@ This repository contains all the app development challenges from TheAppBrewery F
 ## 6th Challenge (Xylophone App with Audio library functions)
 |                   1.                    |
 | :--------------------------------------:| 
-|<img src="xylophone/xylo.png" height="500em"/>| 
+|<img src="6.xylophone/xylo.png" height="500em"/>| 
+
+## 7th Challenge (Quizzler an quiz App with OOP)
+|                   1.                    |
+| :--------------------------------------:| 
+|<img src="7.quizzler/quiz.png" height="500em"/>| 

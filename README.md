@@ -32,6 +32,6 @@ This repository contains all the app development challenges from TheAppBrewery F
 |<img src="6.xylophone/xylo.png" height="500em"/>| 
 
 ## 7th Challenge (Quizzler an quiz App with OOP)
-|                   1.                    |
-| :--------------------------------------:| 
-|<img src="7.quizzler/quiz.png" height="500em"/>| 
+|                   1.                    |                   2                    |
+| :--------------------------------------:| :-------------------------------------: |
+|<img src="7.quizzler/quiz.png" height="500em"/>| <img src="7.quizzler/quizzler-demo.gif" height="500em"/>|

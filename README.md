@@ -35,3 +35,8 @@ This repository contains all the app development challenges from TheAppBrewery F
 |                   1.                    |                   2                    |
 | :--------------------------------------:| :-------------------------------------: |
 |<img src="7.quizzler/quiz.png" height="500em"/>| <img src="7.quizzler/quizzler-demo.gif" height="500em"/>|
+
+## 8th Challenge (Destini an interesting suspense Story App with OOP)
+|                   1.                    |                   2                    |
+| :--------------------------------------:| :-------------------------------------: |
+|<img src="8.destini/ss.png" height="500em"/>| <img src="8.destini/Destini.gif" height="500em"/>|
